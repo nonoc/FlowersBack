@@ -121,3 +121,4 @@ C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\bin\es\Microsoft.Owin.Securi
 C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\obj\Release\FlowersBack.dll
 C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\obj\Release\FlowersBack.pdb
+C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\obj\Release\FlowersBack.csprojResolveAssemblyReference.cache

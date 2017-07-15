@@ -119,6 +119,5 @@ C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\bin\es\Microsoft.Owin.Securi
 C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\bin\es\Microsoft.Owin.Security.Google.resources.dll
 C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
 C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\obj\Debug\FlowersBack.csprojResolveAssemblyReference.cache
 C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\obj\Debug\FlowersBack.dll
 C:\Users\soani\Source\Repos\FlowersBack\FlowersBack\obj\Debug\FlowersBack.pdb

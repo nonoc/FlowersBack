@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-FlowersBack-20170715012007.mdf;Initial Catalog=aspnet-FlowersBack-20170715012007;Integrated Security=True" tags="SqlConnectionString">
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=dbnonocalero.database.windows.net;Initial Catalog=NonoDb;Persist Security Info=True;User ID=nonocalero;Password=C4f3s0lubl3" tags="SqlConnectionString">
     <parameterEntry kind="XmlFile" scope="C:\\Users\\soani\\Source\\Repos\\FlowersBack\\FlowersBack\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="DataContext-Web.config Connection String" description="DataContext Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=dbnonocalero.database.windows.net;Initial Catalog=NonoDb;Persist Security Info=True;User ID=nonocalero;Password=C4f3s0lubl3" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\soani\\Source\\Repos\\FlowersBack\\FlowersBack\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DataContext']/@connectionString" />
   </parameter>
 </parameters>
